@@ -28,3 +28,5 @@
 Убедитесь, что `toBe` работать не будет, но будет работать `toEqual`. Изучите документацию на [`toBe`](https://jestjs.io/docs/en/expect#tobevalue) и [`toEqual`](https://jestjs.io/docs/en/expect#toequalvalue) и выясните в чём разница (а так же термин Deep Equality). Убедитесь, что вы обеспечили 100% покрытие тестами по строкам.
 
 Вы можете дополнительно изучить список доступных "матчер" (список приведён на странице [Документация по expect](https://jestjs.io/docs/ru/expect)), для организации сравнения.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/orxa52p2px0mdkjf?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-matchers)
