@@ -29,4 +29,13 @@
 
 Вы можете дополнительно изучить список доступных "матчер" (список приведён на странице [Документация по expect](https://jestjs.io/docs/ru/expect)), для организации сравнения.
 
+---
+## Ссылки на выполненные задачи блока Unit-тестирование
+
+1. [Чистые функции](https://github.com/Turovae/test-ci-clear-function)
+2. [Matchers](https://github.com/Turovae/test-ci-matchers)
+3. [Mocking](https://github.com/Turovae/test-ci-mocking)
+
+---
+
 [![Build status](https://ci.appveyor.com/api/projects/status/orxa52p2px0mdkjf?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-matchers)
